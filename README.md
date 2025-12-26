@@ -122,7 +122,7 @@ Arguments:
 ├── task2.py
 ├── generate_medusa.py
 ├── Problem Statement.pdf
-├── Setup Guide
+├── Setup.md
 └── README.md
 └── word_lists.txt
 ```
